@@ -26,13 +26,13 @@ The language used is: Python
     b. Input: 10 and 17 
     c. Input: 2 and 4
 
-### A. 
+### A. Output for (11 mod 3)
 ![alt text](image-1.png)
 
-### B. 
+### B. Output for (17 mod 10)
 ![alt text](image-2.png)
 
-### C.
+### C. Output for (4 mod 2)
 ![alt text](image-3.png)
 
 
