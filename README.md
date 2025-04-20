@@ -7,11 +7,11 @@
 
 The language used is: Python
 
-### 1- asking the user to enter 2 positive integer and find the Multiblicative inverse of it, and if there is no multiblicative inverse it will show you the output.
+### 1- Asking the user to enter 2 positive integer and find the Multiplicative inverse of it, and if there is no multiplicative inverse it will show you the output.
 
 ### 2-  python 3.x (no matter the verion)
 
-### 3- the user must esnter 2 positive number (a) to find the multiblicative invers for and the modulas (b), after the user enter these data the program will modul (a) % (b) and the output will be in terminal
+### 3- The user must enter 2 positive number (a) to find the multiplicative invers for and the modules (b), after the user enter these data, the program will module (a) % (b) and the output will be in terminal
 
 ### 4- Enter a number (a) to find its multiplicative inverse for: 3
    Enter a number (b) which is the modulos: 11
@@ -27,7 +27,7 @@ The language used is: Python
     c. Input: 2 and 4
 
 ### A. 
-![alt text](image-1.png) 
+![alt text](image-1.png)
 
 ### B. 
 ![alt text](image-2.png)
