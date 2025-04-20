@@ -1,8 +1,7 @@
-
-#This program is used to find the multiplicative inverse of a number in a modulos system.
+#This code used to find the multiplicative inverse (MI)
 import math
 
-#Getting the input from the user.
+#Getting valid number from the user.
 CorrectInput = False
 while not CorrectInput:
     try:
@@ -48,8 +47,8 @@ while s > 0:
 
 #Checking if the multiplicative inverse exists.
 if a0 != 1:
-    print(f"\nThe multiplicative inverse of {a} does not exist in modulo {b}.\n")
-
+    print(f"\nThe multiplicative inverse of {a} does not exist in mod {b}.\n")
+#The correct multiplicative inverse is found.
 else:
     r = r % b
-    print(f"\nThe multiplicative inverse of {a} in modulo {b} is {r}.\n")
+    print(f"\nThe multiplicative inverse of {a} mod {b} is {r}.\n")
